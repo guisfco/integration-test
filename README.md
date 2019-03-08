@@ -36,3 +36,7 @@ Pay attention to the SonarCloud configuration, because you will receive a token 
 #### Ending at ``sonar-project.properties`` file
 
 - Replace the value of ``sonar.projectKey:`` with your project key _(Probably will be next to Organization Key on SonarCloud)_.
+
+
+
+https://giphy.com/gifs/bublywater-perfect-done-9Jcw5pUQlgQLe5NonJ
