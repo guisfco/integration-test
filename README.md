@@ -39,4 +39,4 @@ Pay attention to the SonarCloud configuration, because you will receive a token 
 
 
 
-![Done](https://tenor.com/TEZM.gif)
+![Done](https://tenor.com/view/done-and-done-spongebob-finished-just-did-it-gif-10843280)
