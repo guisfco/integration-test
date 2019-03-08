@@ -39,4 +39,4 @@ Pay attention to the SonarCloud configuration, because you will receive a token 
 
 
 
-![Done](https://tenor.com/view/done-and-done-spongebob-finished-just-did-it-gif-10843280)
+![Done](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyTYCiB7LcZprNB_T2FG_fcKEHRp_bckXBCWjv88vopIHG1KrE)
