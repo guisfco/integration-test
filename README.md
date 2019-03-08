@@ -12,7 +12,7 @@ This project was created just to know how [Travis](https://travis-ci.com/) and [
 
 # Tutorial
 
-#### First steps
+### First steps
 
 First of all you will need to import your repository to [Travis](https://travis-ci.com/) and later analyze the project on [SonarCloud](https://sonarcloud.io/).
 
