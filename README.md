@@ -1,6 +1,6 @@
-# Travis and SonarQube integration
+# Travis and SonarQube Integration
 
-This project was created just to know how [Travis](https://travis-ci.com/) and [SonarQube](https://www.sonarqube.org/) works.
+This project was created just to know how [Travis](https://travis-ci.com/) and [SonarQube](https://www.sonarqube.org/) integration works.
 
 ### Travis Status
 
@@ -10,11 +10,11 @@ This project was created just to know how [Travis](https://travis-ci.com/) and [
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=br.com.guisfco.test%3Atesting&metric=alert_status)](https://sonarcloud.io/dashboard?id=br.com.guisfco.test%3Atesting)
 
-## Tutorial
+# Tutorial
 
 #### First steps
 
-First of all you will need to import your repository to (Travis)[https://travis-ci.com/] and later analyze the project on (SonarCloud)[https://sonarcloud.io/].
+First of all you will need to import your repository to [Travis](https://travis-ci.com/) and later analyze the project on [SonarCloud](https://sonarcloud.io/).
 
 Pay attention to the SonarCloud configuration, because you will receive a token when you are creating the project. Also you will have to run some commands on Maven. If you're using **Intellij** you can run it with _Execute Maven Goal_, just paste it and follow the next steps.
 
@@ -35,4 +35,4 @@ Pay attention to the SonarCloud configuration, because you will receive a token 
 
 #### Ending at ``sonar-project.properties`` file
 
-- Replace the value of ``sonar.projectKey:`` with your project key _(Probably will be next to Organization Key on SonarCloud).
+- Replace the value of ``sonar.projectKey:`` with your project key _(Probably will be next to Organization Key on SonarCloud)_.
