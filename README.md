@@ -30,12 +30,12 @@ Pay attention to the SonarCloud configuration, because you will receive a token 
 
 #### Moving to ``.travis.yml`` file
 
-- Replace the value of ``organization:`` with your organization _(Organization Key found at SonarCloud)_.
+- Replace the value of ``organization`` with your organization _(Organization Key found at SonarCloud)_.
 - The ``install`` and ``script`` sections are configured to a **_Maven Project_**, so if you're not using it you'll probably need another commands.
 
 #### Ending at ``sonar-project.properties`` file
 
-- Replace the value of ``sonar.projectKey:`` with your project key _(Probably will be next to Organization Key on SonarCloud)_.
+- Replace the value of ``sonar.projectKey`` with your project key _(Probably will be next to Organization Key on SonarCloud)_.
 
 
 
